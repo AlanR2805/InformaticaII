@@ -1,0 +1,7 @@
+C:\Users\Javier Alvarez\source\repos\Tarea2\Tarea2\bin\Debug\Tarea2.exe.config
+C:\Users\Javier Alvarez\source\repos\Tarea2\Tarea2\bin\Debug\Tarea2.exe
+C:\Users\Javier Alvarez\source\repos\Tarea2\Tarea2\bin\Debug\Tarea2.pdb
+C:\Users\Javier Alvarez\source\repos\Tarea2\Tarea2\obj\Debug\Tarea2.csprojResolveAssemblyReference.cache
+C:\Users\Javier Alvarez\source\repos\Tarea2\Tarea2\obj\Debug\Tarea2.csproj.CoreCompileInputs.cache
+C:\Users\Javier Alvarez\source\repos\Tarea2\Tarea2\obj\Debug\Tarea2.exe
+C:\Users\Javier Alvarez\source\repos\Tarea2\Tarea2\obj\Debug\Tarea2.pdb
