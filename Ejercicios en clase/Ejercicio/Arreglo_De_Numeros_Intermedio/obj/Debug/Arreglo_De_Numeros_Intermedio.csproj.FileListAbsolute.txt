@@ -1,0 +1,7 @@
+C:\Users\Alan\source\repos\Ejercicio\Arreglo_De_Numeros_Intermedio\obj\Debug\Arreglo_De_Numeros_Intermedio.csprojResolveAssemblyReference.cache
+C:\Users\Alan\source\repos\Ejercicio\Arreglo_De_Numeros_Intermedio\obj\Debug\Arreglo_De_Numeros_Intermedio.csproj.CoreCompileInputs.cache
+C:\Users\Alan\source\repos\Ejercicio\Arreglo_De_Numeros_Intermedio\bin\Debug\Arreglo_De_Numeros_Intermedio.exe.config
+C:\Users\Alan\source\repos\Ejercicio\Arreglo_De_Numeros_Intermedio\bin\Debug\Arreglo_De_Numeros_Intermedio.exe
+C:\Users\Alan\source\repos\Ejercicio\Arreglo_De_Numeros_Intermedio\bin\Debug\Arreglo_De_Numeros_Intermedio.pdb
+C:\Users\Alan\source\repos\Ejercicio\Arreglo_De_Numeros_Intermedio\obj\Debug\Arreglo_De_Numeros_Intermedio.exe
+C:\Users\Alan\source\repos\Ejercicio\Arreglo_De_Numeros_Intermedio\obj\Debug\Arreglo_De_Numeros_Intermedio.pdb

@@ -1,0 +1,6 @@
+C:\Users\Alan\source\repos\Ejercicio\Palindrome\bin\Debug\Palindrome.exe.config
+C:\Users\Alan\source\repos\Ejercicio\Palindrome\bin\Debug\Palindrome.exe
+C:\Users\Alan\source\repos\Ejercicio\Palindrome\bin\Debug\Palindrome.pdb
+C:\Users\Alan\source\repos\Ejercicio\Palindrome\obj\Debug\Palindrome.csproj.CoreCompileInputs.cache
+C:\Users\Alan\source\repos\Ejercicio\Palindrome\obj\Debug\Palindrome.exe
+C:\Users\Alan\source\repos\Ejercicio\Palindrome\obj\Debug\Palindrome.pdb

@@ -1,0 +1,6 @@
+C:\Users\Alan\source\repos\Ejercicio\Anagrama\bin\Debug\Anagrama.exe.config
+C:\Users\Alan\source\repos\Ejercicio\Anagrama\bin\Debug\Anagrama.exe
+C:\Users\Alan\source\repos\Ejercicio\Anagrama\bin\Debug\Anagrama.pdb
+C:\Users\Alan\source\repos\Ejercicio\Anagrama\obj\Debug\Anagrama.csproj.CoreCompileInputs.cache
+C:\Users\Alan\source\repos\Ejercicio\Anagrama\obj\Debug\Anagrama.exe
+C:\Users\Alan\source\repos\Ejercicio\Anagrama\obj\Debug\Anagrama.pdb
