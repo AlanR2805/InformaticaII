@@ -1,0 +1,7 @@
+C:\Users\Alan\Desktop\Universidad\Segundo Año\Informatica II\Hoja de trabajo no.5\Programs\Reduce\Reduce\bin\Debug\Reduce.exe.config
+C:\Users\Alan\Desktop\Universidad\Segundo Año\Informatica II\Hoja de trabajo no.5\Programs\Reduce\Reduce\bin\Debug\Reduce.exe
+C:\Users\Alan\Desktop\Universidad\Segundo Año\Informatica II\Hoja de trabajo no.5\Programs\Reduce\Reduce\bin\Debug\Reduce.pdb
+C:\Users\Alan\Desktop\Universidad\Segundo Año\Informatica II\Hoja de trabajo no.5\Programs\Reduce\Reduce\obj\Debug\Reduce.csprojResolveAssemblyReference.cache
+C:\Users\Alan\Desktop\Universidad\Segundo Año\Informatica II\Hoja de trabajo no.5\Programs\Reduce\Reduce\obj\Debug\Reduce.csproj.CoreCompileInputs.cache
+C:\Users\Alan\Desktop\Universidad\Segundo Año\Informatica II\Hoja de trabajo no.5\Programs\Reduce\Reduce\obj\Debug\Reduce.exe
+C:\Users\Alan\Desktop\Universidad\Segundo Año\Informatica II\Hoja de trabajo no.5\Programs\Reduce\Reduce\obj\Debug\Reduce.pdb
