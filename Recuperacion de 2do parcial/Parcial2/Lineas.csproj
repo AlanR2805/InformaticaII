@@ -42,6 +42,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Extra.cs" />
     <Compile Include="ILineas.cs" />
     <Compile Include="Linea2D.cs" />
     <Compile Include="Linea3D.cs" />

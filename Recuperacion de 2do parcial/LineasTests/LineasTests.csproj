@@ -42,11 +42,21 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Linea2DTests.cs" />
+    <Compile Include="Linea3D.cs" />
+    <Compile Include="Linea3DTests.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Punto3D.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Parcial2\Lineas.csproj">
+      <Project>{3A79564B-6179-4B09-88B2-D30CC75B3DE3}</Project>
+      <Name>Lineas</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

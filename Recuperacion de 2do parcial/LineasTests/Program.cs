@@ -12,9 +12,10 @@ namespace LineasTests
         {
             // polimorfismo en el que falla
 
-            int[] arreglo = new int[] { };
+            int[] array = new int[] { };
 
-            object polimorfismoFallido = arreglo;
+            object polimorfismoFallido = array;
         }
+       
     }
 }
